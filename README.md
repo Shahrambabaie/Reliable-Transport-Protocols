@@ -1,4 +1,5 @@
 #📶 Reliable Data Transfer Protocols
+
 **Alternating Bit (ABT) • Go-Back-N (GBN) • Selective Repeat (SR)**
 
 This project implements three fundamental **reliable data transfer protocols** used in transport-layer networking. Each protocol is tested inside a controlled packet-level simulator that models delay, corruption, loss, and reordering.
