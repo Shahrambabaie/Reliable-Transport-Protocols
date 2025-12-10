@@ -1,4 +1,4 @@
-#📶 Reliable Data Transfer Protocols
+# 📶 Reliable Data Transfer Protocols
 
 **Alternating Bit (ABT) • Go-Back-N (GBN) • Selective Repeat (SR)**
 
